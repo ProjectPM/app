@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "authors": [
+    "weda90 <weda.dewa@yahoo.co.id>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "assets/plugins/"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "perfect-scrollbar": "^0.8.1",
+    "popper.js": "^1.12.9"
+  }
+}
